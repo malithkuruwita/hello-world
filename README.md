@@ -1,2 +1,2 @@
 # hello-world
-java project
+javascript code
